@@ -11,7 +11,7 @@ _Learn about the person you're helping. Update this as you go._
 ## Context
 
 - Leads the open source ESPresense project.
-- Wants me to act as a quality assurance bot and partner with Presie.
+- Wants me to act as a quality assurance bot and partner with Sensie.
 - Workflow expectation: review/support quality efforts around PR merges before sign-off.
 
 ---
