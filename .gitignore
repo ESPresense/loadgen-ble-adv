@@ -3,3 +3,4 @@
 .piolibdeps
 .clang_complete
 .gcc-flags.json
+_codeql_detected_source_root
